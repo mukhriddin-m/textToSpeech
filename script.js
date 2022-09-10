@@ -10,5 +10,4 @@ btn.addEventListener("click", (ea) => {
     document.execCommand(text)
   });
   recognition.start();
-});
-
+})
